@@ -14,9 +14,9 @@ $$
 S(\lambda) = \exp\left[-\left(\frac{\lambda - \lambda_0}{\delta\lambda}\right)^2\right]
 $$
 
-其中 $\delta\lambda = \frac{\Delta\lambda_{3\mathrm{dB}}}{2\sqrt{\ln 2}}$，$\Delta\lambda_{3\mathrm{dB}}$ 为 3 dB 带宽。
+其中 $\delta\lambda = \frac{\Delta\lambda_{3\text{dB}}}{2\sqrt{\ln 2}}$, $\Delta\lambda_{3\text{dB}}$ 为 3 dB 带宽。
 
-where $\delta\lambda = \frac{\Delta\lambda_{3\mathrm{dB}}}{2\sqrt{\ln 2}}$, and $\Delta\lambda_{3\mathrm{dB}}$ is the 3 dB bandwidth.
+where $\delta\lambda = \frac{\Delta\lambda_{3\text{dB}}}{2\sqrt{\ln 2}}$, and $\Delta\lambda_{3\text{dB}}$ is the 3 dB bandwidth.
 
 **MZI 透射谱 / MZI Transmission Spectrum:**
 
@@ -24,7 +24,7 @@ $$
 T(\lambda) = \frac{1}{2}\left[1 + V \cdot \cos\left(2\pi \cdot \frac{\lambda - \lambda_0}{\text{FSR}}\right)\right]
 $$
 
-其中 $V$ 为干涉可见度，$\text{FSR}$ 为自由光谱范围。
+其中 $V$ 为干涉可见度, $\text{FSR}$ 为自由光谱范围。
 
 where $V$ is the interference visibility and $\text{FSR}$ is the free spectral range.
 

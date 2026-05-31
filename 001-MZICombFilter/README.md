@@ -14,9 +14,9 @@ $$
 S(\lambda) = \exp\left[-\left(\frac{\lambda - \lambda_0}{\delta\lambda}\right)^2\right]
 $$
 
-其中 $\delta\lambda = \frac{\Delta\lambda_{3\text{dB}}}{2\sqrt{\ln 2}}$，$\Delta\lambda_{3\text{dB}}$ 为 3 dB 带宽。
+其中 $\delta\lambda = \frac{\Delta\lambda_{3\mathrm{dB}}}{2\sqrt{\ln 2}}$，$\Delta\lambda_{3\mathrm{dB}}$ 为 3 dB 带宽。
 
-where $\delta\lambda = \frac{\Delta\lambda_{3\text{dB}}}{2\sqrt{\ln 2}}$, and $\Delta\lambda_{3\text{dB}}$ is the 3 dB bandwidth.
+where $\delta\lambda = \frac{\Delta\lambda_{3\mathrm{dB}}}{2\sqrt{\ln 2}}$, and $\Delta\lambda_{3\mathrm{dB}}$ is the 3 dB bandwidth.
 
 **MZI 透射谱 / MZI Transmission Spectrum:**
 

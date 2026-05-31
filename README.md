@@ -1,6 +1,6 @@
 # Microwave Photonics
 
-**Author:** VITALQM
+**Author:** WangBo
 
 这里是我个人原创的微波光子学代码合集。我将它们公开分享，希望能帮到有需要的人，也欢迎一起交流和学习。
 
@@ -26,4 +26,4 @@ If you have any questions or suggestions, feel free to reach out via email.
 
 ---
 
-© 2026 VITALQM. Shared under the MIT License.
+© 2026 WangBo. Shared under the MIT License.

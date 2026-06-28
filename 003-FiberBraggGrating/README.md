@@ -107,37 +107,37 @@ $$
 
 > $\lambda_B = 1550$ nm, $\kappa L = 2$, $L = 5$ mm
 
-[fig1]
+<img width="3500" height="2625" alt="fig1" src="https://github.com/user-attachments/assets/39f0780e-8d9a-4972-8544-02a5445aa995" />
 
 ### 3.2 透射谱 / Transmission Spectrum
 
 > $\lambda_B = 1550$ nm, $\kappa L = 2$, $L = 5$ mm
 
-[fig2]
+<img width="3500" height="2625" alt="fig2" src="https://github.com/user-attachments/assets/9f06b5d2-5175-470e-9a46-62a712371f8a" />
 
 ### 3.3 不同光栅周期下的反射谱 / Reflection Spectrum vs. Grating Period
 
 > $L = 10$ mm, $\kappa L = 2$, $\Lambda = 534.3$ / $534.5$ / $534.7$ nm
 
-[fig3]
+<img width="3500" height="2625" alt="fig3" src="https://github.com/user-attachments/assets/977f19c7-9468-42ac-aea3-85a85d123656" />
 
 ### 3.4 不同耦合系数下的反射谱 / Reflection Spectrum vs. Coupling Coefficient
 
 > $L = 10$ mm, $\lambda_B = 1550$ nm, $\kappa L = 1$ / $2$ / $4$
 
-[fig4]
+<img width="3500" height="2625" alt="fig4" src="https://github.com/user-attachments/assets/8ad1173a-40ed-4d7b-afb6-65b8fe2ec595" />
 
 ### 3.5 峰值反射率与耦合系数的关系 / Peak Reflectivity vs. Coupling Coefficient
 
 > $R_{\text{max}} = \tanh^2(\kappa L)$, $L = 2$ / $4$ / $10$ mm
 
-[fig5]
+<img width="3500" height="2625" alt="fig5" src="https://github.com/user-attachments/assets/50b87467-6577-47a1-bdf3-82c8a68651bf" />
 
 ### 3.6 峰值反射率与光栅长度的关系 / Peak Reflectivity vs. Grating Length
 
 > $R_{\text{max}} = \tanh^2(\kappa L)$, $\kappa = 0.1$ / $0.2$ / $0.3$ mm$^{-1}$
 
-[fig6]
+<img width="3500" height="2625" alt="fig6" src="https://github.com/user-attachments/assets/d8c57687-3ef0-4811-8295-473aa53b7245" />
 
 ---
 
